@@ -18,7 +18,7 @@ Creator : @darkmakerofc , @mr-nima-x
 module.exports = {
   OWNER_NUMBER: "94781876282",
   SUDO_NUMBERS : "94781876282",
-  OWNER_NAME: "『 Resansu Nimsara 』",
+  OWNER_NAME: "『 Resandu Nimsara 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
